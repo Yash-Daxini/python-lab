@@ -1,0 +1,7 @@
+This abc.txt file for reading through python io . 
+abc.txt this is abc . 
+def.txt this is def . 
+ghi.txt this is ghi . 
+all this files in abc.txtfile . 
+Let's run the abc.txt . 
+we read this file using pythoon read , open , close function . 
